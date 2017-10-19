@@ -14,20 +14,6 @@ A collection of hacking / penetration testing resources to make you better!
 
 We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
 
-## Table of Contents
- * [Learning the Skills](#learning-the-skills)
- * [YouTube Channels](#youtube-channels)
- * [Sharpening Your Skills](#sharpening-your-skills)
- * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
- * [Privilege Escalation](#privilege-escalation)
- * [Malware Analysis](#malware-analysis)
- * [Vulnerable Web Application](#vulnerable-web-application)
- * [Vulnerable OS](#vulnerable-os)
- * [Exploits](#exploits)
- * [Forums](#forums)
- * [Archived Security Conference Videos](#archived-security-conference-videos)
- * [Online Communities](#online-communities)
- * [Online News Sources](#online-news-sources)
 
 Learning the Skills
 --
@@ -165,7 +151,7 @@ Vulnerable Web Application
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
-* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
+* [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 
 Vulnerable OS
 --
